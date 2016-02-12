@@ -1,0 +1,92 @@
+body {
+	margin:0;
+	border-radius: 0 0 3px 3px;
+}
+
+.box {  
+	padding: 5px 0 20px 0;
+ 	font-size: 22px;
+	margin-bottom: 0;
+	background: url(../img/02.jpg) repeat-x 0% bottom;
+	background-color: #eeeeee;
+	border-bottom: 3px solid #000000;
+	border-radius: 0 0 10px 10px;
+	
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 412px;
+	background-color: white;
+	padding: 30px 50px 0 50px;
+
+}
+
+.name {
+	border-bottom: 1px solid #7a7a7a;
+	padding-top: 19px;
+}
+
+.name h1 {
+	font-size: 22px;
+	text-align: center;
+	margin: 0;
+}
+
+.name p {
+	margin: 0;
+	font-size: 18px;
+	padding: 2px 0 17px 13px;
+}
+
+.image {
+	display: block;
+	margin: 0 auto;
+	width: 135px;
+	height: 138px;
+	padding: 10px 0px;
+}
+
+.front-end {
+	padding-top: 25px;
+	border-bottom: 1px solid #7a7a7a;
+}
+.front-end p {
+	margin: 0;
+	font-size: 18px;
+	padding: 0 0 28px 13px;
+}
+.front-end ul {
+	margin: 0;
+	padding: 0 0 16px 37px;
+	font-size: 18px;
+	line-height: 26px;
+}
+
+.contacts {
+	padding-top: 22px;
+	border-bottom: 1px solid #7a7a7a;
+}
+.contacts p {
+	margin: 0;
+	padding: 0 0 25px 13px;
+	font-size: 18px;
+	line-height: 26px;
+}
+.contacts p a {
+	display: block;
+	padding: 1px 0 10px 0;
+}
+.contacts p:last-child {
+	padding-bottom: 5px;
+}
+
+.third {
+	padding: 22px 0 0 0;
+}
+.third p {
+	margin: 0;
+	padding: 0 0 64px 13px;
+	font-size: 18px;
+	line-height: 27px;
+}
